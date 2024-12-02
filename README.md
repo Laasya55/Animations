@@ -48,8 +48,8 @@ This project demonstrates basic and dynamic animations for a character named **R
 2. Search for the **Remy** character.  
 3. Download the character with the following animations in **FBX format**:  
    - **Idle**  
-   - **Hip-Hop Dance Move 1** (e.g., "Side Shuffle")  
-   - **Hip-Hop Dance Move 2** (e.g., "Breakdance Spin")  
+   - **Hip-Hop Dance Move 1** 
+   - **Hip-Hop Dance Move 2** 
 
 ---
 
